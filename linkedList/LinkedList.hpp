@@ -1,6 +1,6 @@
 /**
-*	@author 
-*	@date 
+*	@author Zane J Cersovsky
+*	@date Aug 28 2017
 *	@file LinkedList.hpp
 *	@brief Implementation file for templated LinkedList class
 */
